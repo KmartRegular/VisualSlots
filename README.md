@@ -1,2 +1,2 @@
 # VisualSlots
-Slot machine made using SFML.NET
+Slot machine made using https://github.com/MichaelTMiyoshi/WilliamsGameEngine.CSharp
